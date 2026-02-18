@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shivamsingh/Desktop/Hackerrank/output/check_if_numbers_have_samelastdigits'
+relocations:     []
+...
